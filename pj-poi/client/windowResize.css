@@ -1,0 +1,24 @@
+body {
+    margin: 0px;
+    width: 100%;
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+
+#gameContainer {
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
+
+#loadingContainer {
+    position: absolute;
+    left: 35%;
+    top: 40%;
+    Text-align:center;
+    font-size: 200%;
+    color: rgb(162, 162, 162);
+    font-family: 'Roboto', sans-serif;
+}
