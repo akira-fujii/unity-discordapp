@@ -1,0 +1,7 @@
+.DS_Store
+pj-poi/Server/.env.production
+pj-poi/Server/.env.development
+pj-poi/Server/env.development
+pj-poi/Server/env.production
+/discord-test-unity_clone_0
+/discord-test-unity_clone_1
