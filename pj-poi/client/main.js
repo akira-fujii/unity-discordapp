@@ -142,7 +142,6 @@ async function GetChannel(parameter){
     console.log(textTagString);
     
     window.unityInstance.SendMessage("DiscordSDKManager", "GetChannelCallback", activityChannelName);
-    // window.unityInstance.SendMessage("ColyseusManager", "GetServerUrlCallback", "1219662530054590555.discordsays.com/cute");
 }
 
 // called from Unity
